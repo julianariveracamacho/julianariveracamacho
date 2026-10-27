@@ -37,4 +37,4 @@ Protein-stability and docking-data analysis for **pharmacological-chaperone rese
 Molecular ML, computational drug discovery, molecular-property modeling, lead optimization, structural bioinformatics and scientific data analysis. Interested in pharmaceutical and biotechnology research roles.
 
 **Hamburg, Germany** · Open to Hamburg, Berlin and remote roles  
-**Languages:** Spanish (native) · German (C1) · English (B2)
+**Languages:** Spanish (native) · German (C1) · English (C1)
